@@ -1,0 +1,25 @@
+{
+  "name": "myline_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-iscoming/myline_node.git"
+  },
+  "author": "s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-iscoming/myline_node/issues"
+  },
+  "homepage": "https://github.com/S-iscoming/myline_node#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.5",
+    "node-dev": "^3.1.3"
+  }
+}
